@@ -9,13 +9,10 @@ main:
     url: /research/    
 
   - title: "Publications"
-    url: /Publications/
+    url: /publications/
 
   - title: "Outside academia"
     url: /outside_academia/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

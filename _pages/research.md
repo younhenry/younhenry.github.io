@@ -1,8 +1,10 @@
 ---
-permalink: /Research/
+layout: archive
 title: "Research interests"
-
+permalink: /research/
+author_profile: true
 ---
+
 
 ## The drosophila system
 It's not like I love flies. They are just convenient.

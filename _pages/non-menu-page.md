@@ -7,10 +7,4 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
-======
-
-Heading 2
-======
+Congratulations, you've found a hidden page of this website! Your prize is: all my respect.
