@@ -58,12 +58,12 @@ $sidebar-link-max-width     : 250px;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#f9f6f1, $gray, 50%);
-$lighter-gray               : mix(#f9f6f1, $gray, 90%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #f9f6f1;
-$background-color           : #f9f6f1;
-$code-background-color      : #f2efea;
+$body-color                 : #f8f3e9;
+$background-color           : #fff;
+$code-background-color      : #f2f2f2;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;

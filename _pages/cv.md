@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,6 +13,6 @@ Last CV update for the french version : 2023 [download here](/files/pdf/cv_Youn_
 
 Last CV update for the english version below : 2020
 
-<iframe src="/files/pdf/cv_Youn_Henry_en_2020.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/cv_Youn_Henry_en_2020.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
