@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last CV update for the french version : 2023 [download here](/files/pdf/cv_Youn_Henry_fr_2023.pdf)
+Last CV update for the french version : 2023 [download here](/files/cv_Youn_Henry_fr_2023.pdf)
 
 Last CV update for the english version below : 2020
 
