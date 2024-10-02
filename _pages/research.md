@@ -18,7 +18,7 @@ Studying isolated model organisms isn't always the most insightful approach in b
 Intimate insect-microorganism interactions raise so many fascinating questions. How does evolution shape these systems? Are they driven by conflict and arms races, or do they function as unified entities? How much of an insect's phenotype is influenced by its microbial partners? And why do free-living microorganisms develop enduring relationships with insects that live on vastly different timescales?  
 I want to learn everything about it!
 
-![](/images/microbiota_medem.webp){:width = "350px"}  
+![](/images/microbiota_medem.webp){:width="300"}  
 *(c) María Medem*
 
 ___
@@ -29,4 +29,4 @@ It's not like I love flies that much. They are just convenient.
 And cute.  
 Ok, I do like fruit flies a bit.
 
-![](/images/life_of_flies.jpg){:width = "350"}  
+![](/images/life_of_flies.jpg){:width="300"}  
