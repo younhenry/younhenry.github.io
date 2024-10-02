@@ -19,4 +19,4 @@ During my PhD, I worked on nutrition-microbiota interaction, and how this intera
 
 Currently, my work primarily aims to study the evolution process of bacteria shifting from free-living to host-associated lifestyles, using *Drosophila melanogaster* as a model. The idea here is to investigate which bacterial functions could be involved in arising mutualistic interactions, and how these functions depend on the environmental conditions of the host. A second aspect of my research focuses on adaptive potential of the microbiota for its host. In particular, I ask whether the evolution of the host to an environmental constraint may also encompass durable changes in the microbiota community, either in the species composition or in the genetic characteristics of the microbiota.
 
-![](/images/youn-henry-dessin-mouche-shopping-aquarelle.jpg){:height = 600} ![](/images/drosophila_lab.jpg){:height = 600}
+![](/images/youn-henry-dessin-mouche-shopping-aquarelle.jpg){:height = 250} ![](/images/drosophila_lab.jpg){:height = 250}
