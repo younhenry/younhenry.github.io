@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-![](/images/vials1.jpg){:width="40%"} ![](/images/petri.jpg){:width="30%"}
+![](/images/vials1.jpg){:height= 300} ![](/images/petri.jpg){:height = 300}
 
-For a up-to-date publication list, please check my [Google Scholar profile](https://scholar.google.fr/citations?user=1rPv6m4AAAAJ&hl=fr)
+For a up-to-date publication list, please check my [Google Scholar profile](https://scholar.google.fr/citations?user=1rPv6m4AAAAJ&hl=fr)  
+
 ___
 
 {% include base_path %}
