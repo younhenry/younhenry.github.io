@@ -29,4 +29,4 @@ It's not like I love flies that much. They are just convenient.
 And cute.  
 Ok, I do like fruit flies a bit.
 
-![](/images/life_of_flies.jpg){:width = "350px"}  
+![](/images/life_of_flies.jpg){:width = "350"}  
