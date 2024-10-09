@@ -14,7 +14,7 @@ Hi, I'm Youn Henry :)
 I'm mainly specialized in ecology and evolution. I try to better understand why and how organisms can cope with their ever-changing environment, with a special focus on stressful thermal conditions and host-microbes interactions.
 {: style="text-align: justify"}
 
-## My journey in academia
+## My academic journey
 
 During my PhD, I worked on nutrition-microbiota interaction, and how this interaction affects several aspects of stress tolerance in fruit flies. Afterwards, I worked on the aphid x facultative symbionts x parasitoid wasps tripartite interaction, focusing on ecological and evolutionary aspects.
 
